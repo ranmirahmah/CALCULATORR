@@ -13,7 +13,7 @@
 }
 
 .calculator {
-    height: 80%;
+    height: 75%;
     width: 20%;
     background-color: goldenrod;
     border: 2px solid red;
@@ -55,7 +55,7 @@
     grid-template-columns: 2fr 1fr 1fr;
 }
 input {
-    height: 3.5rem;
+    height: 3rem;
     background-color: black;
     color: goldenrod;
     border-radius: 50%;
@@ -73,6 +73,7 @@ input {
     justify-content: center;
     align-items: center; */
     margin: 0 5rem;
+    color: red;
     
     
 }
